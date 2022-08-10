@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="drawing.svg"
+   inkscape:export-filename="C:\Users\mrlvi\corgiaxis.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -82,7 +85,10 @@
      style="display:inline;opacity:1">
     <g
        id="g35162"
-       transform="translate(-0.71957178,-2.1587153)">
+       transform="translate(-0.71957178,-2.1587153)"
+       inkscape:export-filename="C:\Users\mrlvi\Documents\OpenSCAD\libraries\CORGIAXIS\image\corgiAxis.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          style="display:inline;opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 28.911906,25.883862 20.151035,11.215008 32.174787,22.888231 Z"
